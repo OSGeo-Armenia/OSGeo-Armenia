@@ -1,6 +1,6 @@
 # 🗺️ OSGeo Armenia – Local Chapter of the Open Source Geospatial Foundation
 
-Welcome to the official GitHub repository for **OSGeo Armenia** 🇦🇲 — a local chapter of the **[Open Source Geospatial Foundation (OSGeo)](https://www.osgeo.org/)**.
+Welcome to  **OSGeo Armenia** 🇦🇲 gitHub page— a local chapter of the **[Open Source Geospatial Foundation (OSGeo)](https://www.osgeo.org/)**.
 
 We are a growing community of **geospatial developers, researchers, educators, and enthusiasts** in Armenia who collaborate around open-source GIS tools, open data, and knowledge sharing.
 
